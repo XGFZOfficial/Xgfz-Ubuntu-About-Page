@@ -19,4 +19,8 @@ This Is A About Page for My Non-Public
    ```sh
    Not Public Yet
 
-##Usage 
+## Usage 
+
+Use help -xgfz to Bring This up on Xgfz Ubuntu
+
+```sh
