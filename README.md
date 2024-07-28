@@ -5,7 +5,7 @@
 ## Description
 
 This Is A About Page for My Non-Public
-(yet) Xgfz 
+(yet) Xgfz Ubuntu VNCs preloaded with Some Commands. Check out Usage to See all The current Available Commands.
 
 ## Table of Contents
 
@@ -23,4 +23,14 @@ This Is A About Page for My Non-Public
 
 Use help -xgfz to Bring This up on Xgfz Ubuntu
 
-```sh
+Xgfz Help Command
+Available commands:
+
+  TurnOn - Start the Entire Computer
+  TurnOff - Stop the Entire Computer
+  TurnOnSsh   - Start The SSH Server
+  TurnOffSsh   - Stop the SSH server     
+       cls - Clears The Terminal
+               
+   Thank you For Useing Xgfz Ubuntu
+  To See The About Page Goto https://github.com/XGFZOfficial/Xgfz-Ubuntu-About-Page.git
