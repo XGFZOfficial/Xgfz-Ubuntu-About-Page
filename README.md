@@ -1,6 +1,6 @@
 # Xgfz Ubuntu About Page
 
-![Project Logo](https://i.imgur.com/pGDt33A.jpeg)
+![Project Logo](https://i.imgur.com/z6nf3qU.png)
 
 ## Description
 
