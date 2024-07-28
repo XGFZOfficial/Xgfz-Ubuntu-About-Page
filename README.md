@@ -1,23 +1,22 @@
-# Xgfz Ubuntu About Page
-
 ![Project Logo](https://i.imgur.com/z6nf3qU.png)
+
+# Xgfz Ubuntu About Page
 
 ## Description
 
-A brief description of what your project does and why it exists.
+This Is A About Page for My Non-Public
+(yet) Xgfz 
 
 ## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact Information](#contact-information)
 
 ## Installation
 
-1. Clone the repository:
+1. Installation:
 
    ```sh
-   git clone https://github.com/yourusername/your-repo-name.git
+   Not Public Yet
+
+##Usage 
